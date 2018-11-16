@@ -50,6 +50,7 @@ blue "Open" button in the top right hand corner of the lesson. If you open up
 that `js-basics-variables-lab/` directory, you'll see a list of files (along
 with a `test/` directory). Click `index.js`, and it will open in the editor.
 
+
 In `index.js`, you should see, well, nothing. We'll fix that soon.
 
 Now open up `test/indexTest.js`. Hey, there's something! What's all of this
